@@ -146,12 +146,6 @@ Follow these steps:
   - Identify the area in your code where you think the problem is occurring, look for a value that you can log to the console.
   - You may have a function, that never being called, or an event that is not being handled. You can log any message to let you know that this is function is being called. If you don't see the message then look for the location where the function should be invoked for the problem. 
 
-## Stretch goals 
-If you got the end of the tutorial pat yourself on the back. This tutorial used some sophisticated CSS, medium complex JavaScript, and HTML. 
-
-- Change the slides, add some more questions and answers, change the topic make it more interesting. 
-- Add another set of slides, include a button at the top to load of the slide sets. 
-
 ## Comclusion 
 This was a look at using HTML, CSS, and JavaScript to create a web app. 
 

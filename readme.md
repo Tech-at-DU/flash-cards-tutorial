@@ -12,8 +12,10 @@ The only requirements for this tutorial are a web browser, and a code editor. I 
 - [02-adding-styles]
 - [03-writing-javascript]
 - [04-flipping-the-card]
+- [05-stretch-challenges]
 
 [01-getting-started]: 01-getting-started.md
 [02-adding-styles]: 02-adding-styles.md
 [03-writing-javascript]: 03-writing-javascript.md
 [04-flipping-the-card]: 04-flipping-the-card.md
+[05-stretch-challenges]: 05-stretch-challenges.md
