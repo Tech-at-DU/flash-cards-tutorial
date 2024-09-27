@@ -370,6 +370,7 @@ Now get the current question and answer from the array.
 
 ```JS
 const showNextQuestion = () => {
+  const questions = data.questions
   questionIndex += 1
   questionIndex = questionIndex % (questions.length - 1)
   qCardP.innerHTML = questions[questionIndex].q
@@ -383,6 +384,7 @@ Last, we need to display the question number and total number of questions.
 
 ```JS
 const showNextQuestion = () => {
+  const questions = data.questions
   questionIndex += 1
   questionIndex = questionIndex % (questions.length - 1)
   qCardP.innerHTML = questions[questionIndex].q
@@ -403,6 +405,7 @@ To run the code in a function call the function by using it's variable name foll
 
 ```JS
 const showNextQuestion = () => {
+  const questions = data.questions
   questionIndex += 1
   questionIndex = questionIndex % (questions.length - 1)
   qCardP.innerHTML = questions[questionIndex].q
